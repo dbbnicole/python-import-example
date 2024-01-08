@@ -7,4 +7,5 @@ print_hello_world()
 
 # COMMAND ----------
 
-
+from package.subpkg.module2 import *
+print_hello_world2()
