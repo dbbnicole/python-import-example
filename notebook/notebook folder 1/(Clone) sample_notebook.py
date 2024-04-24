@@ -9,4 +9,4 @@ print_hello_world2()
 
 # COMMAND ----------
 
-
+print("hello world")
